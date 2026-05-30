@@ -1,4 +1,4 @@
-﻿# Stock-analytics-project
+﻿
 🔄 Customer Churn Prediction Using Data Mining Algorithms
 A machine learning system to predict customer churn for a telecom provider using Data Mining techniques including Apriori association rule mining, Decision Tree classification, and advanced feature engineering — achieving ~80% prediction accuracy on a real-world dataset of 7,043 records.
 
